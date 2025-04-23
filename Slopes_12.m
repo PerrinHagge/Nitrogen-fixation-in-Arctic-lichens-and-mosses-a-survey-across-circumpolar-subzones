@@ -70,5 +70,3 @@ ax.FontWeight = 'bold'; % Set font weight for tick mark labels
 grid on;
 
 slopes_unc = abs(slopes_unc);
-
-
